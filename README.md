@@ -19,3 +19,6 @@ XMG1期全套：
 链接: http://pan.baidu.com/s/1eRoaxm6 密码: 4m8p
 
 http://www.w3school.com.cn/html5/index.asp
+
+
+xls要先转csv再通过sqlitemanager导入到数据库
