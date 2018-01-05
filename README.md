@@ -26,3 +26,5 @@ xls要先转csv再通过sqlitemanager导入到数据库
 短信平台 http://www.mob.com/
 
 短信通道速码 http://www.eobzz.com/
+
+http://www.cnblogs.com/luxiaoxun/p/4454880.html
