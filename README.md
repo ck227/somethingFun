@@ -30,3 +30,5 @@ xls要先转csv再通过sqlitemanager导入到数据库
 http://www.cnblogs.com/luxiaoxun/p/4454880.html
 
 android 开发规范 https://102.alibaba.com/downloadFile.do?file=1519806643286/Android1_0_0.pdf
+
+导出生成word文档：https://www.cnblogs.com/Sharley/p/8400157.html
